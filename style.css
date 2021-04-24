@@ -1,0 +1,206 @@
+.content {
+    border: solid;
+    height: 900px;
+    width: 45%;
+    margin: auto;
+}
+
+.content-top {
+    margin: 0px 40px 0px 40px;
+}
+
+.resusme {
+    background-color: black;
+    height: 80px;
+    width: 35%;
+}
+
+.text-resusme {
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.content-mid {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 15px 40px 0px 100px;
+    color: #BBBBBB;
+}
+
+.content-mid .text-1 {
+    letter-spacing: 8px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.content-mid .text-2 {
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.content-bottom {
+    height: 100%;
+    margin: 15px 40px 0px 40px;
+}
+
+.content-bottom-left {
+    width: 35%;
+    height: 75%;
+    background-color: black;
+}
+
+.content-left {
+    width: 100%;
+    padding: 15px;
+    color: white;
+}
+
+.content-bottom-left div img {
+    height: 150px;
+    width: 86%;
+}
+
+.profile {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.name {
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info {
+    font-family: sans-serif;
+    color: grey;
+    font-style: italic;
+    letter-spacing: 1px;
+    margin-top: -12px;
+}
+
+.hobbies {
+    margin-top: 20px;
+}
+
+.fa-star {
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.content-hobbies {
+    margin-left: 10px;
+}
+
+.item-hobbies {
+    margin-bottom: 10px;
+}
+
+.item-hobbies span {
+    font-family: sans-serif;
+    color: grey;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
+.content-bottom-right {
+    position: absolute;
+    width: 375px;
+    top: 180px;
+    right: 450px;
+    height: 500px;
+    margin-top: 10px;
+}
+
+.job {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: rgb(168, 167, 167);
+    text-transform: uppercase;
+    padding-top: 5px;
+    letter-spacing: 2px;
+}
+
+table {
+    width: 100%;
+}
+
+.year {
+    padding-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 13px;
+    width: 23%;
+    position: relative;
+    top: -20px;
+}
+
+.content-year {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 8px;
+    padding-left: 10px;
+    font-size: 12px;
+}
+
+.content1 {
+    color: #BBBBBB;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 14px;
+}
+
+.content2 {
+    color: #CCCCCC;
+    font-style: italic;
+}
+
+.content3 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.education {
+    padding-top: 10px;
+}
+
+.profe {
+    padding-bottom: 5px;
+}
+
+.skill {
+    padding-top: 5px;
+    padding-left: 65px;
+}
+
+.name-skill {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    padding-left: 20px;
+    padding-top: 0px;
+}
+
+.skills-tong {
+    background-color: #777777;
+    height: 8px;
+    width: 130px;
+}
+
+.skills {
+    position: relative;
+    top: -8px;
+    background-color: black;
+    height: 8px;
+    width: 80px;
+}
